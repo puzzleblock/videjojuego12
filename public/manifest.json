@@ -1,0 +1,14 @@
+{
+    "name": "Super Puzzle Block",
+    "short_name": "PuzzleBlock",
+    "start_url": ".",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "/icono.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ]
+  }
